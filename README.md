@@ -73,5 +73,6 @@ To create the sway iso
 
 ```
 sudo ./mkiso.sh -r /home/YOUR_USER/void-packages/hostdir/binpkgs/cereus-extra -b sway -- -T YOUR_BRAND
+```
 
 Hope it can help.
